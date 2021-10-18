@@ -9,6 +9,9 @@ It defines specific input parameters, i.e., system's workload, average request p
 
 It is resource-efficient model and has a linear time complexity, which allows it to be used for real-time system reliability evaluation for monitoring purposes.
 
+ERT-CORE definition of the system is shown on the following picture:
+
+![ERT-CORE definition of the system (components and common system parameters)](ertCore_input_metrics.png "ERT-CORE system definition")
 
 ## Time Complexity evaluation
 Scripts for time complexity evaluation can be found under `time_complexity/` folder. Please run `main.m` to replicate this experiment. 
