@@ -33,23 +33,22 @@ In the experiment, a set of user’s agents run in the system. Time periods when
 
 ## Authors
 
-**Ivan Eroshkin** received the B.S. degree in electrical engineering from Czech Technical University in Prague, Czech Republic, in 2017, the M.S. degree in electrical engineering from Czech Technical University in Prague, Czech Republic, in 2020 and the M.S. degree in mobile computing systems from EURECOM, Sophia Antipolis, France, in 2020. He is currently pursuing the Ph.D. degree in electrical engineering at Czech Technical University in Prague, Czech Republic.
+**Ivan Eroshkin** received a BSc degree in electrical engineering from Czech Technical University in Prague, Czech Republic, in 2017, a MSc degree in electrical engineering from Czech Technical University in Prague, Czech Republic, in 2020 and a MSc degree in mobile computing systems from EURECOM, Sophia Antipolis, France, in 2020. He is currently pursuing a PhD degree in electrical engineering at Czech Technical University in Prague, Czech Republic.
 
-In 2019, he was a Research Intern in the Nokia Bell Labs, Paris, France.
-From 2020 to 2021, he was a Research Intern in the Open Networking Foundation, Menlo Park, California, USA.
-His research interests include the development of Software-Defined Networks and future Internet of Things, software virtualization, optimization techniques for embedded devices.
+In 2019, he was a research intern in the Nokia Bell Labs, Paris, France. From 2020 to 2021, he was a research intern in the Open Networking Foundation, Menlo Park, California, USA. His research interests include the development of software-defined networks and future Internet of Things, software virtualisation, optimisation techniques for embedded devices.
 
 
-**Lukas Vojtech** received his MSc and PhD degree in telecommunication engineering from the Czech Technical University in Prague, Czech Republic in 2003 and 2010 respectively. Now, he is Associate Professor at the Department of Telecommunication Engineering at the Czech Technical University in Prague, Czech Republic. 
+**Lukas Vojtech** received his MSc and PhD degree in telecommunication engineering from the Czech Technical University in Prague, Czech Republic in 2003 and 2010, respectively. He is now Associate Professor at the Department of Telecommunication Engineering at the Czech Technical University in Prague, Czech Republic.
 
-From 2006 to 2007, he has joined Sitronics R&D centre in Prague focusing on hardware development. From 2012, he has participated in Eureka founded projects AutoEPCIS and U-Health (member of the project coordination committees) and national (CZ government) projects NANOTROTEX, BE-TEX, KOMPOZITEX and RFID LOCATOR. In the last five years, he acts as project leader and member of the project coordination committees. His current research activities include Electromagnetic compatibility, Radiofrequency identification, Internet of Things and Hardware development.
+From 2006 to 2007, he has joined Sitronics R&D centre in Prague, focusing on hardware development. From 2012, he has participated in Eureka founded projects AutoEPCIS and U-Health (member of the project coordination committees) and national (CZ government) projects
+NANOTROTEX, BE-TEX, KOMPOZITEX and RFID LOCATOR. In the last five years, he has acted as project leader and member of the project coordination committees. His current research activities include electromagnetic compatibility, radio frequency identification, Internet of Things and hardware development.
 
 Lukas Vojtech is a Member (M) of IEEE Czechoslovakia Section from year 2011, IEEE Region: R8 -Europe.
 
 
-**Marek Neruda** received his MSc and PhD degree in telecommunication engineering from the Czech Technical University in Prague, Czech Republic in 2007 and 2014 respectively. Now, he is Researcher at the Department of Telecommunication Engineering at the Czech Technical University in Prague, Czech Republic. 
+**Marek Neruda** received his MSc and PhD degree in telecommunication engineering from the Czech Technical University in Prague, Czech Republic in 2007 and 2014 respectively. He is now a researcher at the Department of Telecommunication Engineering at the Czech Technical University in Prague, Czech Republic.
 
-From 2012, he has participated in Eureka founded projects AutoEPCIS and U-Health and national (CZ government) projects NANOTROTEX, KOMPOZITEX and RFID LOCATOR. His current research activities include Electromagnetic compatibility, Radiofrequency identification and Internet of Things.
+From 2012, he has participated in Eureka founded projects AutoEPCIS and U-Health and national (CZ government) projects NANOTROTEX, KOMPOZITEX and RFID LOCATOR. His current research activities include electromagnetic compatibility, radio frequency identification and Internet of Things.
 
 
 ## References
