@@ -2,7 +2,7 @@
 
 > This repository contains Matlab scripts and snapshots of the environment to replicate experiments described in publication:
 >
-> **put a link on the publication here**
+> **https://ieeexplore.ieee.org/document/9663391**
 
 Resource Efficient Real-Time Reliability Model for Multi-Agent IoT Systems is called ERT-CORE. 
 It defines specific input parameters, i.e., system's workload, average request processing time and availability. Defined parameters reflect system's state and react on its changes. Based on these parameters system reliability evaluation is performed. 
